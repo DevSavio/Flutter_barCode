@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+https://pub.dev/packages/simple_barcode_scanner
+
+uma bibioteca do Flutter para o uso do barCode
+
+## Instalando no projeto
+flutter pub add simple_barcode_scanner
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
